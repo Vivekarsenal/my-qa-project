@@ -65,12 +65,12 @@ I uses Bash script language for automated testing
 
 ## Problem Statement-2
 1.**System Health Monitoring Script**
-Check the code over here
-```
+Check the code from here
+
  (https://github.com/Vivekarsenal/my-qa-project/blob/main/system-monitoring-script.sh)
-```
+
 2.**Automated Backup Solution**
-Check the code over here
+Check the code from here
 ```
 (https://github.com/Vivekarsenal/my-qa-project/blob/main/automated-backup-script.sh)
 
