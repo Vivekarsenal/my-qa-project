@@ -61,6 +61,22 @@ I uses Bash script language for automated testing
 
  ![Screenshot](Screenshot%20(18).png).
 
+(https://github.com/Vivekarsenal/my-qa-project/blob/main/test_script.sh)
+
+## Problem Statement-2
+1.**System Health Monitoring Script**
+Check the code over here
+```
+ ()
+```
+2.**Automated Backup Solution**
+Check the code over here
+```
+()
+
+```
+
+
 
 
 
