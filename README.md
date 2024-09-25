@@ -59,7 +59,7 @@ I uses Bash script language for automated testing
   ```
 3**Screenshot of the Script**:
 
- ![Screenshot](Screenshot (18).png)
+ ![Screenshot](Screenshot (18).png).
 
 
 
