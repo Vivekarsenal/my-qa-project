@@ -71,10 +71,10 @@ Check the code from here
 
 2.**Automated Backup Solution**
 Check the code from here
-```
+
 (https://github.com/Vivekarsenal/my-qa-project/blob/main/automated-backup-script.sh)
 
-```
+
 
 
 
